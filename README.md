@@ -1,1 +1,1 @@
-[![Nutel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutel65)](https://github.com/nutel65/github-readme-stats)
+[![Nutel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutel65&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=radical&bg_color=00000000)](https://github.com/nutel65/github-readme-stats)
